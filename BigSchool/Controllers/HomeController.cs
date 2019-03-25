@@ -8,6 +8,7 @@ namespace BigSchool.Controllers
 {
     public class HomeController : Controller
     {
+        //Code
         public ActionResult Index()
         {
             return View();
